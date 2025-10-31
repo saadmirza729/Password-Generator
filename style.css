@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-image: url('./assets/pictures/Top-7-Free-Password-Managers-for-iPhone-2024-13.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: white;
+    margin: 200px 0px 0px 300px;
+    position: absolute;
+}
+
+button {
+    padding: 12px;
+    font-size: 14px;
+    background-color: #26e8ff;
+    border: none;
+    border-radius: 14px;
+    margin: 250px 0px 0px 300px;
+}
